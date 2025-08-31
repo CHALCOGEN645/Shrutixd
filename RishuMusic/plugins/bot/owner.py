@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
+│├ ᴛɢ ɴᴀᴍᴇ - Chalcogen 
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Chalcogen 
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @ABOUT_SILENTHRAX
-├┤~ @BESTIE_UNITE_CLUB
-├┤~ @silenthrex
+├┤~ @urschalco
+├┤~ @alfaz_e_lafz
+├┤~ @nexiaupdates
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @silenthrax
+│├OWNER│ @c7gen
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -32,17 +32,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("Sɪʟᴇɴᴛʜʀᴀx", url=f"https://t.me/Silenthrax")
+          InlineKeyboardButton("Chalcogen", url=f"https://t.me/c7gen")
         ],
         [
-          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/Silenthrax"),
-          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/BESTIE_UNITE_CLUB"),
+          InlineKeyboardButton("ＨＥＬＰ", url="https://t.me/c7gen"),
+          InlineKeyboardButton("ＲＥＰＯ", url="https://t.me/urschalco"),
           ],
                [
-                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/silenthrex"),
+                InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/nexiaupdates"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RJ_92_MUSIC_BOT"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/nexiamusicbot"),
 
         ]]
     
