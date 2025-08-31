@@ -5,8 +5,8 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 from RishuMusic import app
 
 # Channels to enforce join
-MUST_JOIN_1 = "BESTIE_UNITE_CLUB"
-MUST_JOIN_2 = "Silenthrax"
+MUST_JOIN_1 = "ALFAZ_E_LAFZ"
+MUST_JOIN_2 = "NEXIASUPPORT"
 
 # List of random images
 IMAGES = [
